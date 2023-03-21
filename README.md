@@ -17,3 +17,6 @@ The dataset is available [here](https://mhmoodlan.github.io/blog/arabic-font-cla
 
 # Classification Evaluation 
 ![Capture2](https://user-images.githubusercontent.com/39967400/226684933-f10ab3d4-7a0d-4263-901d-ee9f2dbd0ac4.PNG)
+
+For further details see the notebooks in the repository. 
+

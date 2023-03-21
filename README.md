@@ -1,1 +1,1 @@
-# Arabic-Font-Classification
+# Arabic Font Classification

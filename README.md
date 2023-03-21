@@ -7,3 +7,4 @@ In recent times, the identification of Arabic fonts has become increasingly sign
 # Dataset
 
 RuFa (Ruqaa-Farsi) dataset contains images of text written in one of two Arabic fonts: Ruqaa and Nastaliq (Farsi). The dataset contains 40,000 synthesized images and 516 real ones, 40,516 in total. Images are in RGB JPG format at 100×100px. Text in the images has a varying number of words, position, size, and opacity.
+The dataset is available [here](https://mhmoodlan.github.io/blog/arabic-font-classification).
